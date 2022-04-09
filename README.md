@@ -29,7 +29,7 @@ O grupo deverá redigir uma documentação apresentando a linguagem de programa�
 
 O grupo deverá desenvolver um sistema com no mínimo 100 linhas para apresentar os principais recursos da linguagem de programação. O programa deve ser documentado e comentado, explicando cada estrutura semântica relevante que está sendo utilizada.
 
-O grupo deverá gravar um vídeo tutorial apresentando a linguagem de programação.
+O grupo deverá gravar um <a href =https//www.youtube.com/watch?v=3cQgauqJMPE     >vídeo</a>
+ tutorial apresentando a linguagem de programação.
 
-<
 
