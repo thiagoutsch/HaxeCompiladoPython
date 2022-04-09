@@ -1,4 +1,4 @@
-# HaxeCompiladoPython
+# Trabalho sobre Linguagem Haxe
 
 Um dos objetivos da disciplina de Linguagens de Programação é permitir que o aluno, ao conhecer as estruturas semânticas que definem o comportamento das linguagens de programação, tenha facilidade para aprender qualquer linguagem de programação desconhecida em pouco tempo, em diversos paradigmas e modelos de programação.
 
@@ -9,27 +9,28 @@ Cada empresa, site, pesquisador ou profissional possui sua própria visão do qu
 
 A especificação do trabalho é:
 
-domínios de aplicação,
+-domínios de aplicação,
 
-tipos de dados e sistemas de tipos,
+-tipos de dados e sistemas de tipos,
 
-alocação de memória,
+-alocação de memória,
 
-principais instruções de controle,
+-principais instruções de controle,
 
-sintaxe e expressividade,
+-sintaxe e expressividade,
 
-recursividade,
+-recursividade,
 
-concorrência
+-concorrência
 
-paradigmas de programação presentes (com exemplos de estruturas semânticas de cada paradigma).
+-paradigmas de programação presentes (com exemplos de estruturas semânticas de cada paradigma).
 
 O grupo deverá redigir uma documentação apresentando a linguagem de programação. Ele deve conter os tópicos acima, mas não de se limitar a eles. Os tópicos acima nem mesmo devem ser seções específicas da documentação.
 
 O grupo deverá desenvolver um sistema com no mínimo 100 linhas para apresentar os principais recursos da linguagem de programação. O programa deve ser documentado e comentado, explicando cada estrutura semântica relevante que está sendo utilizada.
 
-O grupo deverá gravar um <a href =https//www.youtube.com/watch?v=3cQgauqJMPE     >vídeo</a>
- tutorial apresentando a linguagem de programação.
+O grupo deverá gravar um  <a href ="https://www.youtube.com/watch?v=3cQgauqJMPE" target="_blank">video</a>  tutorial apresentando a linguagem de programação.
+
+
 
 
