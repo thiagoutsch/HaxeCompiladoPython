@@ -31,6 +31,12 @@ O grupo deverá desenvolver um sistema com no mínimo 100 linhas para apresentar
 
 O grupo deverá gravar um  <a href ="https://www.youtube.com/watch?v=3cQgauqJMPE" target="_blank">video</a>  tutorial apresentando a linguagem de programação.
 
+<div>
+<img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haxe/haxe-original.svg" / height="40" width="35">
 
+          
+ 
+ </div>
 
 
